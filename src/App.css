@@ -15,3 +15,8 @@
 .app_headerImage{
 height: 50px;
 }
+
+.post_stories{
+  display: flex;
+  padding: 20px 20px 20px 20px;
+}
